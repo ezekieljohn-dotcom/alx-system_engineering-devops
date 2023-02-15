@@ -1,0 +1,1 @@
+#!/bin/bashecho $PATH | tr ":" "\n" | wc -1
